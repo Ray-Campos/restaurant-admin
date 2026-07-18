@@ -1,6 +1,6 @@
 # Sistema de Gestão de Restaurante
 
-Projeto acadêmico desenvolvido para a disciplina de Banco de Dados 2. Trata-se de um sistema web completo para gerenciamento de restaurante (PDV e Backoffice), focado na aplicação prática de modelagem relacional, integridade de dados e consultas analíticas (OLAP).
+Projeto acadêmico desenvolvido para a disciplina de Programação para Internet I. Trata-se de um sistema web completo para gerenciamento de restaurante, focado na aplicação prática de modelagem relacional, integridade de dados e consultas analíticas.
 
 Link para a apresentação: [Presentation](https://drive.google.com/file/d/1VSMx7wEqgoAnR4uYu4bZjD9j1ORjWTot/view?usp=drive_link)
 
